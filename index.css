@@ -1,0 +1,36 @@
+body{
+background-image: url("image.jpeg");
+color: white;
+font-size: 40px;
+text-align:center;
+}
+.whole-body{
+position:absolute;
+top:50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+#increment-btn{
+background-color:blueviolet;
+width:200px;
+height:50px;
+font-size:25px;
+font-weight:bold;
+border:none;
+margin-bottom:5px;
+color:white;
+
+}
+
+#save-btn{
+background-color:green;
+width:200px;
+height:50px;
+font-size:25px;
+font-weight:bold;
+border:none;
+margin-bottom:5px;
+color:white;
+
+}
